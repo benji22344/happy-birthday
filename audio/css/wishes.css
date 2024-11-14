@@ -1,0 +1,47 @@
+body{
+  background-image: url(backgroundim1.jpg);
+  background-size:cover ;
+  background-repeat: no-repeat;
+  background-position:center ;
+  background-attachment: fixed;
+}
+
+
+
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Rubik Beastly;
+  color: rgb(255, 141, 230);
+}
+
+.pw{
+font-size: 250px;
+
+}
+.dw{
+  align-items: center;
+justify-items: center;
+}
+
+.pn{
+  margin-top: 5px;
+  font-size: 40px;
+  font-style:Rubik Beastly ;
+}
+.dpn{
+  height: 100px;
+}
+
+.chimele,.eno,.pm,.pe{
+  font-size:50px;
+  margin-top:20px ;
+}
+
+
+.cv{
+display:inline-block;
+width: 300px;
+
+}
+

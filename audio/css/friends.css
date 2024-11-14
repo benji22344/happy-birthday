@@ -1,0 +1,22 @@
+
+body{
+  background-image: url(download.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+
+.pp{
+font-size: 100px;
+
+}
+
+.sp,.mf,.sorry{
+  font-size: 30px;
+  margin-top: 10px ;
+}
